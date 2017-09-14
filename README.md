@@ -4,13 +4,12 @@
 ### About Me
 
 - email: Yana_Goncharuk@icloud.com
-- mobile:
+- mobile: +380673883523
 
 
 **Date of birth**  12th September 1992
 
 ```
-Hostess to breakfast restaurant Bistro Cote Est
 Im seeking employment with a company where i can use my ability to communicate with people and take advantage of my knowledge of English. 
 ```
 
