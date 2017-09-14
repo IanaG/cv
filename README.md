@@ -4,8 +4,6 @@
 ### About Me
 
 - email: Yana_Goncharuk@icloud.com
-- mobile: +380673883523
-
 
 **Date of birth**  12th September 1992
 
@@ -31,6 +29,8 @@ Im seeking employment with a company where i can use my ability to communicate w
 - [x] Responsible.
 
 **Language skills:** English – upper intermedite, French – good reading and translating ability.
+
 **Computer literacy:** Microsoft Office, Adobe Photoshop, Jira
+
 **Hobbies:** foreign languages (Chinese and English), gym, modelling.
 
